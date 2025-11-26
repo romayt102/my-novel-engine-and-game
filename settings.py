@@ -1,0 +1,6 @@
+WIDTH = 1920
+HEIGHT = 1080
+FPS = 180
+
+
+BLACK = (0,0,0)
